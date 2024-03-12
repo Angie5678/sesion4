@@ -1,0 +1,59 @@
+body{
+
+    background-color: bisque
+}
+
+table{
+
+    background-color: white
+}
+
+p, h3, h2, h1{
+    text-align: justify;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+
+
+#columna1 {
+
+    table-layout: fixed;
+    width: 60%;
+}
+
+#columna2 {
+
+    width: 30%;
+    vertical-align: top;
+    background-color: rgb(197, 147, 220);
+    
+}
+
+main{
+
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+#personaldata ul li {
+    list-style: none;
+    
+
+}
+
+#columna2 h2, #columna2 h3, #columna2 p{
+    text-align: left;
+    margin-left: 38px;
+}
+
+#personaldata ul {
+
+    
+   text-align: left;
+
+}
+
+div p{
+
+    text-align: justify;
+}
